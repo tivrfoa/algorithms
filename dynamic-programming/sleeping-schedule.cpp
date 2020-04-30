@@ -3,6 +3,8 @@ Problem: https://codeforces.com/contest/1324/problem/E
 
 Solution by: neal
 
+#bottom-up approach
+
 */
 #include <algorithm>
 #include <cassert>
